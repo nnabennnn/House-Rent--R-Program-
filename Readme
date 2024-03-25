@@ -1,0 +1,38 @@
+House Rent Prediction Dataset
+
+This dataset contains the details of varied house rents that could determine how people have an impact to choose the houses for rental based on their lifestyle. Human Rights Measurement team assigned you to perform analysis with the given dataset to identify the how people choose their rental house based on their family background, locality and lifestyle and provide meaningful insight for decision making. 
+
+
+Techniques
+The dataset provided for this assignment consists of information about Houses/Apartments/Flats Available for Rent, including parameters such as BHK, Rent, Size, No. of Floors, Area Type, Area Locality, City, Furnishing Status, Type of Tenant Preferred, No. of Bathrooms, and Point of Contact. It contains over 4700 rows and 12 columns. In addition to the techniques (data exploration, manipulation, transformation, and visualization techniques) covered in the course to analyze the dataset, you might consider to explore and implement more advanced concepts to enhance the effectiveness of data retrieval.
+
+
+Introduction 
+This assignment investigates tenant preferences for houses in India. Our major theory is that
+"Most families prefer to rent a super area, unfurnished, 2 BHK or larger property type with
+the owner as their point of contact." To validate this idea, we will examine a comprehensive dataset.
+We hope to learn more about tenant preferences by looking at criteria like area type, furnishing
+quality, BHK count, and preferred contact person. Based on this, we could get to understand the Data
+Collection, Data Pre-processing, Data Exploration, and Data Visualization in conducting this analysis.
+The dataset given to us comprises of all these categories and will be able to assist us in conducting
+this analysis.
+
+
+
+Assumptions
+According to the hypothesis as mentioned above, led to some assuming which is a following:
+• Family needs a larger area for their house:
+According form the hypothesis which families prefer the house with super area with
+2 BHK this can assume that family may have their own children or pet more space for
+everyone. Besides, Super Area would be slightly larger compared to carpet area with extra
+thickness of external walls of the property, lifts, veranda area, and balcony provided.
+• Family has their own idea for decoding the furniture house:
+As mentioned, that families prefer unfurnished house type from this reason may cause
+of each person in family have their own style so unfurnished type can make a choice for them
+to arrange their own house type by themselves.
+• Family can head on a deal with owner:
+To assuming this, the family might have a lot of condition along with many
+experiences of them to make the contract with owner is more easily that with the agent
+because of they can ask their condition to owner directly and minimise any commission fees
+making it cheaper.
+
